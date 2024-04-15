@@ -9,4 +9,4 @@ Dangerous*](https://www.learnenough.com/git-tutorial)』で使うサンプルサ
 使いこなせるようになります。プロジェクトの変更履歴を追いかけることも、データのバックアップも、
 成果を一般公開することも、他のプログラマーたちとGitで共同作業することも自由自在です。
 
-<a href="(https://git-scm.com/)." > [official Git documentation]</a>
+<a href="https://git-scm.com/" > [official Git documentation].</a>
